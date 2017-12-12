@@ -1,5 +1,5 @@
 {
-  "name": "vendor/mlr",
+  "name": "sbrbot/mlr",
   "description": "PHP library for calculating Multivariate Linear Regression",
   "type": "library",
   "require": {"php": ">=7.0.0"},
